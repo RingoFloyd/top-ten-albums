@@ -1,11 +1,12 @@
 import React from "react";
 import ChartCard from "./ChartCard";
 import albums from "../albums";
+import Header from "./Header";
 
 function App() {
     return (
         <div>
-            <h1>Reinie's Top 10 Rock Albums</h1>
+            <Header />
             <ChartCard />
         </div>
     );

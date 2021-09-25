@@ -1,5 +1,14 @@
 $main-font: "Oxygen", sans-serif;
+$color-1: #261c2c;
+$color-2: #3e2c41;
+$color-3: #5c527f;
+$color-4: #6e85b2;
 
-h1 {
+body {
+  background-color: $color-1;
+}
+
+header {
+  background-color: $color-4;
   font-family: $main-font;
 }

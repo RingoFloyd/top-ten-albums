@@ -1,4 +1,9 @@
-h1 {
+body {
+  background-color: #261c2c;
+}
+
+header {
+  background-color: #6e85b2;
   font-family: "Oxygen", sans-serif;
 }
 /*# sourceMappingURL=styles.css.map */
