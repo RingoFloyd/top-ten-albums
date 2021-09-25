@@ -1,9 +1,12 @@
 body {
   background-color: #261c2c;
+  margin-top: 0;
 }
 
 header {
   background-color: #6e85b2;
   font-family: "Oxygen", sans-serif;
+  margin: auto -16px;
+  padding: 16px 32px;
 }
 /*# sourceMappingURL=styles.css.map */
